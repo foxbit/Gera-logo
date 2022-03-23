@@ -1,0 +1,10 @@
+body{
+    background-color:lavender;
+    padding: 20px;
+}
+
+.card-style {
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    width: 350px;
+    border-radius: 10px;
+}
