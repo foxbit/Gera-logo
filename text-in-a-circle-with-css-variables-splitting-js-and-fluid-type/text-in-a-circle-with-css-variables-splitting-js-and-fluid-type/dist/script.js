@@ -1,1 +1,0 @@
-const results = Splitting({ by: 'chars', whitespace: true })
